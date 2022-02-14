@@ -14,4 +14,4 @@ Menambahkan deskripsi Squash 3
 
 Menambahkan deskripsi Squash Final
 
-Menambahkan beberapa update Squash v1.0
+Menambahkan beberapa update mengenai squash v1.0
