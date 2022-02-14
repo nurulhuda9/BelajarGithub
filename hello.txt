@@ -5,3 +5,5 @@ Mencoba menambahkan Pembaruan Deskripsi
 Melakukan perubahan pada file
 
 Perbaikan dari pull sebelumnnya
+
+Menambahkan deskripsi Squash 1
